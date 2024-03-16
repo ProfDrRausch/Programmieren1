@@ -39,9 +39,9 @@ Beide ProfessorInnen arbeiten als Team. Die Stundenpläne der Studiengänge Info
 |09:45 - 11:15||| Baur / Rausch|||
 |11:30 - 13:00||||||
 |||||||
-|14:00 - 15:30|||||Rausch|
+|14:00 - 15:30||Baur|||Rausch|
 |15:45 - 17:15||Baur|||Rausch|
-|17:30 - 19:00||Baur||||
+|17:30 - 19:00||||||
 
 ## Semesterplan
 
