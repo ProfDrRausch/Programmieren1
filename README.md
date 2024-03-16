@@ -89,12 +89,19 @@ class HalloWelt{
 
 Die Prüfungsleistung besteht auf folgenden Teilen:
 
-| | | |
+* Individuelle Leistung
+
+||||
 |-|-|-|
-|1. Teilprüfung|17.4.2024| 40 %|
-|2. Teilprüfung|29.5.2024| 40 %|
+|1. Teilprüfung|17.4.2024| 40 % |
+|2. Teilprüfung|29.5.2024| 60 % |
+
+* Gruppenleistung
+|||
+|-|-|
 |Bewertetes Programmierprojekt in 2er-Teams|3.6.2023 - 28.6.2023| 20 % |
-|-|-|-|
+
+Sowohl in der individuellen Leistung als auch in der Gruppenleistung müssen jeweils 50 % der erreichbaren Punkte erreicht werden.
 
 ## Moodle
 
